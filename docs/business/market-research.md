@@ -19,3 +19,6 @@ Plusieurs formations, demandes via Facebook/WhatsApp, responsable administratif 
 
 ## Constats terrain
 (à compléter après les entretiens)
+
+## Méthode de sélection (J3)
+Voir `sales/prospect-scoring.md`. On ne déduit pas l'organisation interne d'un centre à partir de ses publications Facebook.
