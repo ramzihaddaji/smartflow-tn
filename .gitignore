@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+Config.gs
+.clasp.json
+.clasprc.json
+sales/prospects-reels.csv
+sales/*-prive.*
+data/
